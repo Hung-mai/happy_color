@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "16012450565",
+    "project_id": "happy-color-c83fe",
+    "storage_bucket": "happy-color-c83fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16012450565:android:e9a2a736c21299fccdf56c",
+        "android_client_info": {
+          "package_name": "com.abi.happy.color"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16012450565-t1s4lmu855sf858lejm03jq20ptii63m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnPCpXFBEh-p0DHcOZHgZrhxsoiZzDFOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16012450565-t1s4lmu855sf858lejm03jq20ptii63m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

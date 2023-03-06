@@ -1,0 +1,231 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a634771de3af5546af3752259912f05, type: 3}
+  m_Name: ColorData
+  m_EditorClassIdentifier: 
+  colorMats:
+  - colorType: 0
+    color: {r: 1, g: 1, b: 1, a: 0.39215687}
+    material: {fileID: 2100000, guid: e94ec93ed7f18884dbea27be36a5b09b, type: 2}
+  - colorType: 1
+    color: {r: 1, g: 1, b: 1, a: 0.39215687}
+    material: {fileID: 2100000, guid: ae8a3ae9e2ca91e43b0cfedc2cce7fa3, type: 2}
+  - colorType: 2
+    color: {r: 1, g: 1, b: 1, a: 1}
+    material: {fileID: 2100000, guid: 105509dabba3e5048974462cc927b64e, type: 2}
+  - colorType: 3
+    color: {r: 0, g: 0, b: 0, a: 1}
+    material: {fileID: 2100000, guid: f1492631fbea3924b98411506a7157ab, type: 2}
+  - colorType: 4
+    color: {r: 0.59607846, g: 0, b: 0, a: 1}
+    material: {fileID: 2100000, guid: d33c84efb4f44d140a14dc2ee83b0bdb, type: 2}
+  - colorType: 5
+    color: {r: 0.90196085, g: 0.72156864, b: 0.6862745, a: 1}
+    material: {fileID: 2100000, guid: cf7a00bc1c02bf642b1e4d52e9814cf7, type: 2}
+  - colorType: 6
+    color: {r: 0.86666673, g: 0.49411768, b: 0.41960788, a: 1}
+    material: {fileID: 2100000, guid: 50610087ec1f2ad47a3d96ef68e4519b, type: 2}
+  - colorType: 7
+    color: {r: 0.8000001, g: 0.25490198, b: 0.14509805, a: 1}
+    material: {fileID: 2100000, guid: b59e18e12257ef345a025ff2132ef2c2, type: 2}
+  - colorType: 8
+    color: {r: 0.6509804, g: 0.10980393, b: 0, a: 1}
+    material: {fileID: 2100000, guid: 09704cf867fee9b4fa8d04b055376940, type: 2}
+  - colorType: 9
+    color: {r: 0.52156866, g: 0.1254902, b: 0.04705883, a: 1}
+    material: {fileID: 2100000, guid: ed0773132f3c0c94d9910ed334e57462, type: 2}
+  - colorType: 10
+    color: {r: 1, g: 0, b: 0, a: 1}
+    material: {fileID: 2100000, guid: 420438873b2b4434195bc3717e4a854e, type: 2}
+  - colorType: 11
+    color: {r: 0.9568628, g: 0.8000001, b: 0.8000001, a: 1}
+    material: {fileID: 2100000, guid: 47d50ff3d2db5c84cb040f9468e62260, type: 2}
+  - colorType: 12
+    color: {r: 0.9176471, g: 0.6, b: 0.6, a: 1}
+    material: {fileID: 2100000, guid: c5d5bc6a20e29b34c871185c89c1fe42, type: 2}
+  - colorType: 13
+    color: {r: 0.87843144, g: 0.40000004, b: 0.40000004, a: 1}
+    material: {fileID: 2100000, guid: 89d80c40eeaf2f94aae039a88fac6b2a, type: 2}
+  - colorType: 14
+    color: {r: 0.8000001, g: 0, b: 0, a: 1}
+    material: {fileID: 2100000, guid: b761fae2d5946384c9174ad5f408cc03, type: 2}
+  - colorType: 15
+    color: {r: 0.6, g: 0, b: 0, a: 1}
+    material: {fileID: 2100000, guid: 46f7508a25ef9c740aa2088558ae6f3d, type: 2}
+  - colorType: 16
+    color: {r: 1, g: 0.6, b: 0, a: 1}
+    material: {fileID: 2100000, guid: 1c3708a9ec9804d46b2a21bd861e489e, type: 2}
+  - colorType: 17
+    color: {r: 0.98823535, g: 0.8980393, b: 0.80392164, a: 1}
+    material: {fileID: 2100000, guid: e82fe5dd53525294ca6e1390ef8693d3, type: 2}
+  - colorType: 18
+    color: {r: 0.97647065, g: 0.7960785, b: 0.6117647, a: 1}
+    material: {fileID: 2100000, guid: 7cab26aa0f1110c4eb6969eaf7d4a732, type: 2}
+  - colorType: 19
+    color: {r: 0.96470594, g: 0.69803923, b: 0.41960788, a: 1}
+    material: {fileID: 2100000, guid: fb52fbf6c57288644a676caeb6fa5d88, type: 2}
+  - colorType: 20
+    color: {r: 0.90196085, g: 0.5686275, b: 0.21960786, a: 1}
+    material: {fileID: 2100000, guid: f757c9642f5365f40b38d1f74d387e63, type: 2}
+  - colorType: 21
+    color: {r: 0.7058824, g: 0.37254903, b: 0.023529414, a: 1}
+    material: {fileID: 2100000, guid: 57d7ca2ddc8afe746baaf188ec0ed5d2, type: 2}
+  - colorType: 22
+    color: {r: 1, g: 1, b: 0, a: 1}
+    material: {fileID: 2100000, guid: 55fa87e7a324c9047aa4b4ec21948fa9, type: 2}
+  - colorType: 23
+    color: {r: 1, g: 0.9490197, b: 0.8000001, a: 1}
+    material: {fileID: 2100000, guid: 6601a786d4d10644bb8509c9b7ec8003, type: 2}
+  - colorType: 24
+    color: {r: 1, g: 0.8980393, b: 0.6, a: 1}
+    material: {fileID: 2100000, guid: adab52cd9b2a90747a74ef32859592d7, type: 2}
+  - colorType: 25
+    color: {r: 1, g: 0.85098046, b: 0.40000004, a: 1}
+    material: {fileID: 2100000, guid: 12148a84179afb7499e2722f8addacbe, type: 2}
+  - colorType: 26
+    color: {r: 0.9450981, g: 0.7607844, b: 0.19607845, a: 1}
+    material: {fileID: 2100000, guid: 62e670e3683c71b42a83e0936b8e7ae8, type: 2}
+  - colorType: 27
+    color: {r: 0.7490196, g: 0.5647059, b: 0, a: 1}
+    material: {fileID: 2100000, guid: e83133f3c62260648840bd6c208c7590, type: 2}
+  - colorType: 28
+    color: {r: 0, g: 1, b: 0, a: 1}
+    material: {fileID: 2100000, guid: 589feb66ae240e34db82b97f5309be95, type: 2}
+  - colorType: 29
+    color: {r: 0.85098046, g: 0.9176471, b: 0.82745105, a: 1}
+    material: {fileID: 2100000, guid: 1fa580882ae834247a89c5a317e0d954, type: 2}
+  - colorType: 30
+    color: {r: 0.7137255, g: 0.8431373, b: 0.65882355, a: 1}
+    material: {fileID: 2100000, guid: 9d6d57e4579ee1f48b2ed0674b91a5e8, type: 2}
+  - colorType: 31
+    color: {r: 0.5764706, g: 0.7686275, b: 0.4901961, a: 1}
+    material: {fileID: 2100000, guid: d6749e5950438834ba76a4f2f0f9de6f, type: 2}
+  - colorType: 32
+    color: {r: 0.4156863, g: 0.65882355, b: 0.30980393, a: 1}
+    material: {fileID: 2100000, guid: 8a60d25e06d42244aac6312c84b13759, type: 2}
+  - colorType: 33
+    color: {r: 0.21960786, g: 0.46274513, b: 0.1137255, a: 1}
+    material: {fileID: 2100000, guid: ad09b4c0e654c174fb08e54e39e44345, type: 2}
+  - colorType: 34
+    color: {r: 0, g: 1, b: 1, a: 1}
+    material: {fileID: 2100000, guid: f7abcd4274e4af54aad304315979774e, type: 2}
+  - colorType: 35
+    color: {r: 0.81568635, g: 0.87843144, b: 0.89019614, a: 1}
+    material: {fileID: 2100000, guid: aa870668a7aca4c409097b8183bb87fe, type: 2}
+  - colorType: 36
+    color: {r: 0.63529414, g: 0.7686275, b: 0.78823537, a: 1}
+    material: {fileID: 2100000, guid: d7016d100d82e8f48ae6e9318ef94db2, type: 2}
+  - colorType: 37
+    color: {r: 0.46274513, g: 0.64705884, b: 0.6862745, a: 1}
+    material: {fileID: 2100000, guid: 7a47e88a5c8bdb74a85f03418bc69a1d, type: 2}
+  - colorType: 38
+    color: {r: 0.27058825, g: 0.5058824, b: 0.5568628, a: 1}
+    material: {fileID: 2100000, guid: 6ccd997f19a100a4580ca6dfe66c08f5, type: 2}
+  - colorType: 39
+    color: {r: 0.07450981, g: 0.30980393, b: 0.36078432, a: 1}
+    material: {fileID: 2100000, guid: 7463e56fa9816864d83fbae5910ea69e, type: 2}
+  - colorType: 40
+    color: {r: 0.2901961, g: 0.5254902, b: 0.909804, a: 1}
+    material: {fileID: 2100000, guid: 725dd4a3c7c2ec645837555fb2523efc, type: 2}
+  - colorType: 41
+    color: {r: 0.81568635, g: 0.87843144, b: 0.89019614, a: 1}
+    material: {fileID: 2100000, guid: 1dae048cfd42c044089656c7e5b2f56a, type: 2}
+  - colorType: 42
+    color: {r: 0.6431373, g: 0.7607844, b: 0.9568628, a: 1}
+    material: {fileID: 2100000, guid: 13951c5dc98de5a4783587a131178fe5, type: 2}
+  - colorType: 43
+    color: {r: 0.427451, g: 0.61960787, b: 0.9215687, a: 1}
+    material: {fileID: 2100000, guid: be69a82bf530f774fb4f728f6fdc4006, type: 2}
+  - colorType: 44
+    color: {r: 0.23529413, g: 0.47058827, b: 0.8470589, a: 1}
+    material: {fileID: 2100000, guid: 4670f6c9983aeba44b99359f17740d57, type: 2}
+  - colorType: 45
+    color: {r: 0.06666667, g: 0.33333334, b: 0.8000001, a: 1}
+    material: {fileID: 2100000, guid: cb86862d2f4d4104390627465a34c605, type: 2}
+  - colorType: 46
+    color: {r: 0, g: 0, b: 1, a: 1}
+    material: {fileID: 2100000, guid: 44f2edb06464fb745a4983c655639d39, type: 2}
+  - colorType: 47
+    color: {r: 0.8117648, g: 0.8862746, b: 0.95294124, a: 1}
+    material: {fileID: 2100000, guid: bbb094f1c46d3e34e8aab89effea30b7, type: 2}
+  - colorType: 48
+    color: {r: 0.6431373, g: 0.7607844, b: 0.9568628, a: 1}
+    material: {fileID: 2100000, guid: 58195887ead5a3441bd2f3e118a5c140, type: 2}
+  - colorType: 49
+    color: {r: 0.427451, g: 0.61960787, b: 0.9215687, a: 1}
+    material: {fileID: 2100000, guid: 34d8d321175ac3e419676c3e510c74aa, type: 2}
+  - colorType: 50
+    color: {r: 0.2392157, g: 0.52156866, b: 0.77647066, a: 1}
+    material: {fileID: 2100000, guid: bab32275c1239e14a8076adda90ab652, type: 2}
+  - colorType: 51
+    color: {r: 0.043137256, g: 0.3254902, b: 0.5803922, a: 1}
+    material: {fileID: 2100000, guid: 152cdae9fb2dd5549b0f4971cead76a4, type: 2}
+  - colorType: 52
+    color: {r: 0.6, g: 0, b: 1, a: 1}
+    material: {fileID: 2100000, guid: b1daf3f633e40444e95d21716d58bf31, type: 2}
+  - colorType: 53
+    color: {r: 0.85098046, g: 0.8235295, b: 0.91372555, a: 1}
+    material: {fileID: 2100000, guid: 6e26a432ea6f98346b49db840ddeca14, type: 2}
+  - colorType: 54
+    color: {r: 0.7058824, g: 0.654902, b: 0.83921576, a: 1}
+    material: {fileID: 2100000, guid: 0f8e6ad27a2e308419f9831c07ad27b1, type: 2}
+  - colorType: 55
+    color: {r: 0.5568628, g: 0.48627454, b: 0.76470596, a: 1}
+    material: {fileID: 2100000, guid: b7891cb27e292684c85b8fd026498286, type: 2}
+  - colorType: 56
+    color: {r: 0.4039216, g: 0.30588236, b: 0.654902, a: 1}
+    material: {fileID: 2100000, guid: 09fd5cdfd3f62d147ba86cc8231545a1, type: 2}
+  - colorType: 57
+    color: {r: 0.20784315, g: 0.10980393, b: 0.45882356, a: 1}
+    material: {fileID: 2100000, guid: 51565b1e9999bac40b2aaf15eb2aab60, type: 2}
+  - colorType: 58
+    color: {r: 1, g: 0, b: 1, a: 1}
+    material: {fileID: 2100000, guid: fb9c81f924eb20a47972aa5e07bd5b29, type: 2}
+  - colorType: 59
+    color: {r: 0.9176471, g: 0.8196079, b: 0.86274517, a: 1}
+    material: {fileID: 2100000, guid: 9ac6f44dcb4235144b947239300ca797, type: 2}
+  - colorType: 60
+    color: {r: 0.8352942, g: 0.6509804, b: 0.7411765, a: 1}
+    material: {fileID: 2100000, guid: 80e078c5331cea9418e7d1909244cd47, type: 2}
+  - colorType: 61
+    color: {r: 0.7607844, g: 0.48235297, b: 0.627451, a: 1}
+    material: {fileID: 2100000, guid: 1ee0c03c06018364da157130946aaeeb, type: 2}
+  - colorType: 62
+    color: {r: 0.6509804, g: 0.3019608, b: 0.47450984, a: 1}
+    material: {fileID: 2100000, guid: 4d2f9c36c6ebf8a4584e69dbc6cf404d, type: 2}
+  - colorType: 63
+    color: {r: 0.454902, g: 0.10588236, b: 0.2784314, a: 1}
+    material: {fileID: 2100000, guid: a1641d67e7d86cc4299c575bda781743, type: 2}
+  - colorType: 64
+    color: {r: 0.95294124, g: 0.95294124, b: 0.95294124, a: 1}
+    material: {fileID: 2100000, guid: d1e5dd0809f388643ba3500720d64c35, type: 2}
+  - colorType: 65
+    color: {r: 0.93725497, g: 0.93725497, b: 0.93725497, a: 1}
+    material: {fileID: 2100000, guid: 4135f7f939a6b3f49bb93b4dc9be3aeb, type: 2}
+  - colorType: 66
+    color: {r: 0.85098046, g: 0.85098046, b: 0.85098046, a: 1}
+    material: {fileID: 2100000, guid: 140e3782adf714e4db04e79b8c2302d3, type: 2}
+  - colorType: 67
+    color: {r: 0.8000001, g: 0.8000001, b: 0.8000001, a: 1}
+    material: {fileID: 2100000, guid: 68f1399c8bb5a464ebeec4339a7f89e2, type: 2}
+  - colorType: 68
+    color: {r: 0.7176471, g: 0.7176471, b: 0.7176471, a: 1}
+    material: {fileID: 2100000, guid: ac60448a5f874674895595b3fb69ab18, type: 2}
+  - colorType: 69
+    color: {r: 0.6, g: 0.6, b: 0.6, a: 1}
+    material: {fileID: 2100000, guid: 969ddbf19de861149afaf580e1d29d18, type: 2}
+  - colorType: 70
+    color: {r: 0.40000004, g: 0.40000004, b: 0.40000004, a: 1}
+    material: {fileID: 2100000, guid: 0a51a8c4936bfbb4a90189567c784eab, type: 2}
+  - colorType: 71
+    color: {r: 0.2627451, g: 0.2627451, b: 0.2627451, a: 1}
+    material: {fileID: 2100000, guid: cefb6af0d42ca404ab3c57fc9a80cd7b, type: 2}

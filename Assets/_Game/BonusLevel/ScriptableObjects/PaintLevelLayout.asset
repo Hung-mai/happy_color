@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9dd7b585ec5e4b94fbff942d2c69633d, type: 3}
+  m_Name: PaintLevelLayout
+  m_EditorClassIdentifier: 
+  paintLevelLayout:
+  - levelName: 
+    levelID: 1
+    cameraPos: {x: 0, y: 23.559694, z: 8.75202}
+    cameraEndGamePos: {x: 5.98, y: 47, z: 17}
+    brickPos: {x: 0, y: 0, z: -0.31}
+    brickScale: {x: 0.9, y: 0.9, z: 0.9}
+    sampleBrickPos: {x: 0, y: 4.68, z: -8.19}
+    sampleBrickScale: {x: 0.25, y: 0.25, z: 0.25}
+    sampleBrickBGPos: {x: 0, y: -0.63, z: -1.32}
+    sampleBrickBGScale: {x: 7, y: 8.5, z: 9}
+  - levelName: 
+    levelID: 2
+    cameraPos: {x: 0, y: 33.89632, z: 12.51424}
+    cameraEndGamePos: {x: 8.63, y: 66.5, z: 28.1}
+    brickPos: {x: 0, y: 0, z: 1.06}
+    brickScale: {x: 0.8, y: 1, z: 0.8}
+    sampleBrickPos: {x: 0, y: 4.13, z: -8.45}
+    sampleBrickScale: {x: 0.3, y: 0.3, z: 0.3}
+    sampleBrickBGPos: {x: 0, y: -1.15, z: -1.57}
+    sampleBrickBGScale: {x: 8, y: 10, z: 9}
+  - levelName: 
+    levelID: 3
+    cameraPos: {x: 0, y: 24.499388, z: 9.09404}
+    cameraEndGamePos: {x: 7.87, y: 60.4, z: 25.9}
+    brickPos: {x: 0, y: 0, z: 0.44}
+    brickScale: {x: 0.9, y: 0.9, z: 0.9}
+    sampleBrickPos: {x: 0, y: 4.25, z: -8.15}
+    sampleBrickScale: {x: 0.3, y: 0.3, z: 0.3}
+    sampleBrickBGPos: {x: 0, y: -0.41, z: -1.16}
+    sampleBrickBGScale: {x: 8, y: 8, z: 8}
+  - levelName: 
+    levelID: 4
+    cameraPos: {x: 0, y: 26.378775, z: 9.77808}
+    cameraEndGamePos: {x: 8.5, y: 63.5, z: 25.8}
+    brickPos: {x: 0, y: 0, z: 0}
+    brickScale: {x: 1, y: 1, z: 1}
+    sampleBrickPos: {x: 0, y: 4.08, z: -9.6}
+    sampleBrickScale: {x: 0.35, y: 0.35, z: 0.35}
+    sampleBrickBGPos: {x: 0, y: -0.5, z: -1.5}
+    sampleBrickBGScale: {x: 8, y: 8, z: 8}
+  - levelName: 
+    levelID: 5
+    cameraPos: {x: 0, y: 23.559694, z: 8.75202}
+    cameraEndGamePos: {x: 7.5, y: 55.92, z: 22.8}
+    brickPos: {x: 0, y: 0, z: 0.48}
+    brickScale: {x: 0.9, y: 0.9, z: 0.9}
+    sampleBrickPos: {x: 0, y: 3.57, z: -8.39}
+    sampleBrickScale: {x: 0.3, y: 0.3, z: 0.3}
+    sampleBrickBGPos: {x: 0, y: -0.6, z: -1.08}
+    sampleBrickBGScale: {x: 8, y: 9, z: 9.2}
+  - levelName: 
+    levelID: 6
+    cameraPos: {x: 0, y: 32.016933, z: 11.8302}
+    cameraEndGamePos: {x: 10.6, y: 79.3, z: 28.4}
+    brickPos: {x: 0, y: 0, z: -0.13}
+    brickScale: {x: 0.95, y: 0.95, z: 0.95}
+    sampleBrickPos: {x: 0, y: 5.99, z: -10.97}
+    sampleBrickScale: {x: 0.3, y: 0.3, z: 0.3}
+    sampleBrickBGPos: {x: 0, y: -0.15, z: -1.21}
+    sampleBrickBGScale: {x: 9, y: 11, z: 9}
+  - levelName: 
+    levelID: 7
+    cameraPos: {x: 0, y: 27.318468, z: 10.1201}
+    cameraEndGamePos: {x: 9, y: 69.3, z: 27.44}
+    brickPos: {x: 0, y: 0, z: -0.07}
+    brickScale: {x: 0.95, y: 0.95, z: 0.95}
+    sampleBrickPos: {x: 0, y: 5.66, z: -8.8}
+    sampleBrickScale: {x: 0.3, y: 0.3, z: 0.3}
+    sampleBrickBGPos: {x: 0, y: -0.43, z: -1.21}
+    sampleBrickBGScale: {x: 9, y: 9, z: 9}
+  - levelName: 
+    levelID: 8
+    cameraPos: {x: 0, y: 26.378775, z: 9.77808}
+    cameraEndGamePos: {x: 8.54, y: 61, z: 24.3}
+    brickPos: {x: 0, y: 0, z: -0.45}
+    brickScale: {x: 1, y: 1, z: 1}
+    sampleBrickPos: {x: 0, y: 3.85, z: -10.67}
+    sampleBrickScale: {x: 0.3, y: 0.3, z: 0.3}
+    sampleBrickBGPos: {x: 0, y: -1, z: -1.6}
+    sampleBrickBGScale: {x: 9, y: 9, z: 9}
+  - levelName: 
+    levelID: 9
+    cameraPos: {x: 0, y: 27.318468, z: 10.1201}
+    cameraEndGamePos: {x: 9, y: 67.4, z: 28.98}
+    brickPos: {x: 0, y: 0, z: -0.63}
+    brickScale: {x: 1, y: 1, z: 1}
+    sampleBrickPos: {x: 0, y: 3.53, z: -11.49}
+    sampleBrickScale: {x: 0.3, y: 0.3, z: 0.3}
+    sampleBrickBGPos: {x: 0, y: -0.4, z: -1.2}
+    sampleBrickBGScale: {x: 9, y: 9, z: 9}
+  - levelName: 
+    levelID: 10
+    cameraPos: {x: 0, y: 23.559694, z: 8.75202}
+    cameraEndGamePos: {x: 7.5, y: 56.4, z: 22.16}
+    brickPos: {x: 0, y: 0, z: 0.05}
+    brickScale: {x: 1, y: 1, z: 1}
+    sampleBrickPos: {x: 0, y: 4.15, z: -8.35}
+    sampleBrickScale: {x: 0.3, y: 0.3, z: 0.3}
+    sampleBrickBGPos: {x: 0, y: -0.37, z: -1.04}
+    sampleBrickBGScale: {x: 8, y: 8, z: 8}

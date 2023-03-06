@@ -1,0 +1,41 @@
+
+Smile.png
+size: 448, 305
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Layer 11
+  rotate: false
+  xy: 2, 8
+  size: 295, 295
+  orig: 295, 295
+  offset: 0, 0
+  index: -1
+Layer 12
+  rotate: true
+  xy: 413, 224
+  size: 79, 33
+  orig: 79, 33
+  offset: 0, 0
+  index: -1
+Layer 12 copy
+  rotate: false
+  xy: 299, 65
+  size: 124, 112
+  orig: 124, 112
+  offset: 0, 0
+  index: -1
+Layer 12 copy 2
+  rotate: true
+  xy: 299, 179
+  size: 124, 112
+  orig: 124, 112
+  offset: 0, 0
+  index: -1
+Layer 12 copy 3
+  rotate: false
+  xy: 299, 2
+  size: 132, 61
+  orig: 132, 61
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+fire_2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+smoke
+  rotate: true
+  xy: 2, 45
+  size: 166, 169
+  orig: 200, 200
+  offset: 13, 8
+  index: -1
+spark
+  rotate: true
+  xy: 173, 125
+  size: 134, 122
+  orig: 200, 200
+  offset: 29, 34
+  index: -1
+spark1
+  rotate: true
+  xy: 173, 2
+  size: 121, 134
+  orig: 200, 200
+  offset: 38, 24
+  index: -1
+spark2
+  rotate: false
+  xy: 2, 213
+  size: 161, 181
+  orig: 200, 200
+  offset: 25, 12
+  index: -1
+spark3
+  rotate: true
+  xy: 165, 261
+  size: 133, 137
+  orig: 200, 200
+  offset: 33, 38
+  index: -1

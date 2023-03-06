@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4cfc06bde1bfe774c85f9e5c1f5c8699, type: 3}
+  m_Name: GiftDatas
+  m_EditorClassIdentifier: 
+  BrickTypeInfo:
+  - giftName: BrickNormal
+    isUnlock: 1
+    progressPercent: 100
+    giftID: -1
+    giftSprite: {fileID: 21300000, guid: ed784550af9b6f74d87b77071a300cf8, type: 3}
+    giftEndgameSprite: {fileID: 21300000, guid: d0ce87f3f28efe247a9cab72c719e015, type: 3}
+  - giftName: BrickLego
+    isUnlock: 0
+    progressPercent: 0
+    giftID: 0
+    giftSprite: {fileID: 21300000, guid: d32de011fdf0e814fb08dfd337b06097, type: 3}
+    giftEndgameSprite: {fileID: 21300000, guid: 056bcf95cbed76a49b054d1c1baedd40, type: 3}
+  - giftName: BrickLom
+    isUnlock: 0
+    progressPercent: 0
+    giftID: 2
+    giftSprite: {fileID: 21300000, guid: b8a31cd76448b824fbbe5868f8cc3ea5, type: 3}
+    giftEndgameSprite: {fileID: 21300000, guid: faf32435923f5414f9300f51171f2b30, type: 3}
+  - giftName: BrickConNhong
+    isUnlock: 0
+    progressPercent: 0
+    giftID: 4
+    giftSprite: {fileID: 21300000, guid: 5a17f5a9b6d0ff84cad64fd77112364c, type: 3}
+    giftEndgameSprite: {fileID: 21300000, guid: c68bb673091e63d448deb80db8c5c677, type: 3}
+  - giftName: BrickLoi
+    isUnlock: 0
+    progressPercent: 0
+    giftID: 6
+    giftSprite: {fileID: 21300000, guid: aa5cc998e8064f141baa0f986f5a7282, type: 3}
+    giftEndgameSprite: {fileID: 21300000, guid: 1e5ffedc2abcb184ea1eb5b2d87195f3, type: 3}
+  HammerTypeInfo:
+  - giftName: HammerNormal
+    isUnlock: 1
+    progressPercent: 100
+    giftID: -1
+    giftSprite: {fileID: 21300000, guid: a982028c2a1e5174dbcb6682de00a98a, type: 3}
+    giftEndgameSprite: {fileID: 21300000, guid: 23167969b5389e642a3bf1f45bff6fc3, type: 3}
+  - giftName: HammerClown
+    isUnlock: 0
+    progressPercent: 0
+    giftID: 1
+    giftSprite: {fileID: 21300000, guid: fb78ffc71a22ab8469c47c29def22fe8, type: 3}
+    giftEndgameSprite: {fileID: 21300000, guid: 531c70b6476ddf24780ecc45a15226f2, type: 3}
+  - giftName: HammerDrum
+    isUnlock: 0
+    progressPercent: 0
+    giftID: 3
+    giftSprite: {fileID: 21300000, guid: d34f3ded5fc32f3418c777b00c9d41a2, type: 3}
+    giftEndgameSprite: {fileID: 21300000, guid: 6db871efabee76a43a552d78f33a3c47, type: 3}
+  - giftName: HammerMinion
+    isUnlock: 0
+    progressPercent: 0
+    giftID: 5
+    giftSprite: {fileID: 21300000, guid: 821d18ba9503a7e46ba2a548aa9744f3, type: 3}
+    giftEndgameSprite: {fileID: 21300000, guid: df0a54d384801ac40ab5c8387a72f9e5, type: 3}
+  - giftName: HammerCandy
+    isUnlock: 0
+    progressPercent: 0
+    giftID: 7
+    giftSprite: {fileID: 21300000, guid: bf3cb14f770da0d45be0f797a329ee1c, type: 3}
+    giftEndgameSprite: {fileID: 21300000, guid: cc1e836582e9b334d85880f9e09c6f87, type: 3}
+  - giftName: HammerFatty
+    isUnlock: 0
+    progressPercent: 0
+    giftID: 8
+    giftSprite: {fileID: 21300000, guid: 93f28d6eaad31b64085533d9a2c1b0f6, type: 3}
+    giftEndgameSprite: {fileID: 21300000, guid: c7a2c384b4181bd45b238ad7d07177a2, type: 3}

@@ -1,0 +1,48 @@
+
+Cry.png
+size: 392, 299
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Layer 14
+  rotate: false
+  xy: 2, 2
+  size: 295, 295
+  orig: 295, 295
+  offset: 0, 0
+  index: -1
+Layer 15
+  rotate: true
+  xy: 299, 136
+  size: 161, 81
+  orig: 161, 81
+  offset: 0, 0
+  index: -1
+Layer 16
+  rotate: true
+  xy: 299, 11
+  size: 123, 34
+  orig: 123, 34
+  offset: 0, 0
+  index: -1
+Layer 19
+  rotate: true
+  xy: 335, 65
+  size: 69, 39
+  orig: 69, 39
+  offset: 0, 0
+  index: -1
+Layer 20
+  rotate: true
+  xy: 335, 2
+  size: 61, 41
+  orig: 61, 41
+  offset: 0, 0
+  index: -1
+Layer 21
+  rotate: false
+  xy: 376, 119
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
